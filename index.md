@@ -35,6 +35,7 @@ Fight IQ includes both a free version and a subscription version with premium fe
 
 | ![Screenshot 1](/img/screens/1.png) | ![Screenshot 2](/img/screens/2.png)
 | ![Screenshot 3](/img/screens/3.png) | ![Screenshot 4](/img/screens/4.png)
+| ![Screenshot 5](/img/screens/5.png) |
 
 ## 🕵️ Privacy policy {#privacy}
 
