@@ -13,11 +13,25 @@ Contact: <fightiqapp [at] gmail.com>
  <a href="http://itunes.apple.com/app/6479872912"><img height=75 src="/img/appstore.svg" alt="Download for iOS" /></a>
 </center>
 
-## App Description
+## 👊 Fight Smarter
 
-Your AI coach for Combat Sport
+Fight IQ is your ultimate companion in the world of combat sports. Here’s why it’s a game-changer:
 
-## 📱 App Screenshots
+• Document your journey – Whether it's boxing, MMA, muay thai, judo, JJB, karate, or any other martial art, Fight IQ is where you log every sparring session. Track your opponents' details – age, weight, height, strengths, weaknesses, and favorite techniques.
+
+• Analyze your bouts – Dive deep into your sparring sessions, noting every technique executed, scored, or countered. Document your insights and learning moments to level up your game.
+
+• AI coaching at your fingertips – Our AI coach delves into your fights, recognizing patterns, tracking your progress, and delivering personalized advice. From optimal combinations to defensive strategies, body conditioning to mental preparation, it's like having a dedicated coach in your corner.
+
+• Share the excitement – Flaunt your scorecards and share the wisdom from your AI coach with friends or on social media platforms. Let the world see your progress and celebrate your victories.
+
+• Seamlessly sync across devices – With iCloud backup, access your data anytime, anywhere, on any device linked to your iCloud account. Your fight journey stays with you, no matter where you go.
+
+Whether you're a seasoned combatant or just starting out, Fight IQ welcomes you. Record, analyze, and conquer – it's all here.
+
+Fight IQ includes both a free version and a subscription version with premium features.
+
+## 📱 Screenshots
 
 | ![Screenshot 1](/img/screens/1.png) | ![Screenshot 2](/img/screens/2.png)
 | ![Screenshot 3](/img/screens/3.png) | ![Screenshot 4](/img/screens/4.png)
