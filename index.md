@@ -17,7 +17,7 @@ Contact: <fightiqapp [at] gmail.com>
 
 Fight IQ is your ultimate companion in the world of combat sports. Here’s why it’s a game-changer:
 
-• Document your journey – Whether it's boxing, MMA, muay thai, judo, JJB, karate, or any other martial art, Fight IQ is where you log every sparring session. Track your opponents' details – age, weight, height, strengths, weaknesses, and favorite techniques.
+• Document your journey – Whether it's MMA, boxing, muay thai, judo, JJB, karate, or any other martial art, Fight IQ is where you log every sparring session. Track your opponents' details – age, weight, height, strengths, weaknesses, and favorite techniques.
 
 • Analyze your bouts – Dive deep into your sparring sessions, noting every technique executed, scored, or countered. Document your insights and learning moments to level up your game.
 
